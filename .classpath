@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/checker-qual-3.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/error_prone_annotations-2.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/guava-33.0.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-api-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-api-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-chrome-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-chrome-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-chromium-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-chromium-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v85-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v85-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v118-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v118-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v119-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v119-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v120-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-devtools-v120-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-edge-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-edge-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-firefox-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-firefox-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-http-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-http-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-ie-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-ie-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-java-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-java-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-json-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-json-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-manager-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-manager-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-os-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-os-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-remote-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-remote-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-safari-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-safari-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-support-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/selenium-support-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/ci-environment-10.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-core-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-expressions-17.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-gherkin-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-gherkin-messages-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-java-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/cucumber-plugin-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/datatable-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/docstring-7.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/gherkin-26.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/html-formatter-20.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/junit-xml-formatter-0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/messages-22.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avinash.dinkle/Documents/Selenium jars/Cucumber/tag-expressions-6.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
