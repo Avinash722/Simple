@@ -6,9 +6,10 @@ import java.util.List;
 
 public class TestCase2 {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "./chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://magento.softwaretestingboard.com/");
+        driver.manage().window().maximize();
         driver.findElement(By.xpath("//span[text()='Women']" )).click();
         driver.findElement(By.xpath("//a[text()='Jackets']" )).click();
         List<WebElement> products = driver.findElements(By.xpath("//li[contains(@class,'product-item')]"));
